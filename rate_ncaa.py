@@ -63,8 +63,9 @@ class EloRater(object):
         """Returns rating change for team 1"""
         expected_win_prob_team1 = 1.0/(1 + 10**((rating2 - rating1)/400))
 
-        # TODO: Compute bonus based on score differential
-        bonus = 0
+        # Compute bonus based on score differential
+        bonus = 1.0*abs(score1 - score2)/(score1 + score2)
+        print bonus
 
         change = self.K * (1 + bonus) * expected_win_prob_team1
         return change
@@ -103,7 +104,7 @@ class EloRater(object):
             ratings = map(lambda opponent_id: self.teams[opponent_id]['rating'], team_info['opponents'])
             mean = sum(ratings)/len(ratings)
             #print team_info['name'], int(team_info['rating']), int(mean)
-            new_ratings[team_id] = team_info['rating']*(mean**C)/(1000**C)
+            new_ratings[team_id] = team_info['rating']*((mean/1000)**C)
 
         for team_id, new_rating in new_ratings.items():
             self.teams[team_id]['rating'] = new_rating
