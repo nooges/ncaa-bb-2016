@@ -1,2104 +1,351 @@
    1, Abilene_Chr
-   2, Academy_of_Art
-   3, Acadia
-   4, Adams_St
-   5, Adelphi
-   6, Adirondack_CC
-   7, Adrian
-   8, AFLBC
-   9, Air_Force
-  10, AK_Anchorage
-  11, AK_Fairbanks
-  12, Akron
-  13, Akron-Wayne
-  14, AL_Huntsville
-  15, AL_Southern
-  16, Alabama
-  17, Alabama_A&M
-  18, Alabama_St
-  19, Alameda
-  20, Albany_GA
-  21, Albany_NY
-  22, Albany_Pharmacy
-  23, Albany_Tech
-  24, Alberta
-  25, Albertus_Magnus
-  26, Albion
-  27, Albright
-  28, Alcorn_St
-  29, Ald-Broaddus
-  30, Alfred
-  31, Alfred_St
-  32, Algoma
-  33, Algonquin
-  34, Alice_Lloyd
-  35, Allan_Hancock
-  36, Allegany_MD
-  37, Allegheny
-  38, Allen
-  39, Allen_Co
-  40, Alma
-  41, Alpena_CC
-  42, Alvernia
-  43, Ambrose
-  44, American_Intl
-  45, American_River
-  46, American_Univ
-  47, Amherst
-  48, Ancilla
-  49, Anderson_IN
-  50, Anderson_SC
-  51, Andrews
-  52, Angelina
-  53, Angelo_St
-  54, Anna_Maria
-  55, Anne_Arundel
-  56, Anoka_Ramsey
-  57, Antelope_Val
-  58, Antelope_Val_CC
-  59, Appalachian_St
-  60, Apprentice
-  61, Aquinas
-  62, Arcadia
-  63, Arizona
-  64, Arizona_Chr
-  65, Arizona_St
-  66, Ark_Baptist
-  67, Ark_Little_Rock
-  68, Ark_Monticello
-  69, Ark_Pine_Bluff
-  70, Arkansas
-  71, Arkansas_St
-  72, Arkansas_Tech
-  73, Arkansas-FS
-  74, Arlington_Bap
-  75, Armstrong_St
-  76, Army
-  77, ASA
-  78, ASA_Miami
-  79, Asbury
-  80, Ashland
-  81, Assumption
-  82, Atlanta_Metro
-  83, Atlantic_Cape_CC
-  84, Auburn
-  85, Auburn_M'gomery
-  86, Augsburg
-  87, Augusta
-  88, Augustana_AB
-  89, Augustana_IL
-  90, Augustana_SD
-  91, Aurora
-  92, Austin_Col
-  93, Austin_Peay
-  94, Ave_Maria
-  95, Averett
-  96, Avila
-  97, AZ_Western
-  98, Azusa_Pacific
-  99, Babson
- 100, Bacone
- 101, Baker_KS
- 102, Bakersfield_Col
- 103, Baldwin-Wallace
- 104, Ball_St
- 105, Baltimore_City_CC
- 106, Bap_Bible_MO
- 107, Barber-Scotia
- 108, Barclay
- 109, Bard
- 110, Barry
- 111, Barstow_CC
- 112, Barton
- 113, Barton_Co
- 114, Baruch
- 115, Bates
- 116, Baton_Rouge_CC
- 117, Baylor
- 118, Becker
- 119, Belhaven_MS
- 120, Bellarmine
- 121, Bellevue
- 122, Bellevue_CC
- 123, Belmont
- 124, Belmont_Abbey
- 125, Beloit
- 126, Bemidji_St
- 127, Benedict
- 128, Benedictine_AZ
- 129, Benedictine_IL
- 130, Benedictine_KS
- 131, Bentley
- 132, Berea
- 133, Bergen_CC
- 134, Berkeley_NYC
- 135, Berry
- 136, Bethany_KS
- 137, Bethany_Luth
- 138, Bethany_WV
- 139, Bethel_IN
- 140, Bethel_KS
- 141, Bethel_MN
- 142, Bethel_TN
- 143, Bethesda
- 144, Bethune-Cookman
- 145, Big_Bend_CC
- 146, Binghamton
- 147, Biola
- 148, Birmingham_So
- 149, Bishop_St
- 150, Bishop's
- 151, Bismarck_St
- 152, Black_Hawk-E
- 153, Black_Hawk-M
- 154, Black_Hills_St
- 155, Blackburn
- 156, Blinn
- 157, Bloomfield
- 158, Bloomsburg
- 159, Blue_Mountain_CC
- 160, Blue_Mtn
- 161, Bluefield_VA
- 162, Bluefield_WV
- 163, Bluffton
- 164, Bob_Jones
- 165, Boise_St
- 166, Bor_Manhattan
- 167, Bossier_Parish
- 168, Boston_College
- 169, Boston_Univ
- 170, Bowdoin
- 171, Bowie_St
- 172, Bowling_Green
- 173, Boyce
- 174, Bradley
- 175, Brandeis
- 176, Brandon
- 177, Brebeuf
- 178, Brescia
- 179, Brevard
- 180, Brewton-Parker
- 181, Briar_Cliff
- 182, Bridgeport
- 183, Bridgewater_MA
- 184, Bridgewater_VA
- 185, Briercrest
- 186, Bristol
- 187, Bristol_CC
- 188, Brit_Columbia
- 189, Brock
- 190, Brockport_St
- 191, Bronx_CC
- 192, Brookdale_CC
- 193, Brookhaven
- 194, Brooklyn_Col
- 195, Broome_CC
- 196, Broward_CC
- 197, Brown
- 198, Brown_Mackie
- 199, Brunswick_CC
- 200, Bryan
- 201, Bryant
- 202, Bryant_&_Stratton
- 203, Bryn_Athyn
- 204, Bucknell
- 205, Bucks_Co_CC
- 206, Buena_Vista
- 207, Buffalo
- 208, Buffalo_St
- 209, Bunker_Hill_CC
- 210, Burlington_Co
- 211, Butler
- 212, Butler_Co-KS
- 213, Butler_Co-PA
- 214, Butte_Col
- 215, BYU
- 216, BYU_Hawaii
- 217, C_Arizona
- 218, C_Chr_Bible
- 219, C_Maine_Tech
- 220, C_Michigan
- 221, C_Missouri
- 222, C_Oklahoma
- 223, C_Washington
- 224, Cabrillo
- 225, Cabrini
- 226, Cairn
- 227, Cal_Baptist
- 228, Cal_Lutheran
- 229, Cal_Maritime
- 230, Cal_Poly_SLO
- 231, Cal_St-LA
- 232, Caldwell
- 233, Caldwell_CC_Tech
- 234, Calgary
- 235, California
- 236, California_PA
- 237, Caltech
- 238, Calumet-St_Jos
- 239, Calvary_Bib
- 240, Calvin
- 241, Cambrian
- 242, Camden_Co
- 243, Cameron
- 244, Camosun
- 245, Campbell
- 246, Campbellsville
- 247, Canada_Col
- 248, Canadian_Menn
- 249, Canadore
- 250, Canisius
- 251, Cape_Breton
- 252, Cape_Fear_CC
- 253, Capilano
- 254, Capital
- 255, Card_Stritch
- 256, Carl_Albert
- 257, Carl_Sandburg
- 258, Carleton_MN
- 259, Carleton_ON
- 260, Carlow
- 261, Carnegie_Mellon
- 262, Carroll_MT
- 263, Carroll_WI
- 264, Carson-Newman
- 265, Carthage
- 266, Carver_Bib
- 267, Case_Western
- 268, Casper_College
- 269, Castleton
- 270, Catawba
- 271, Catawba_Val
- 272, Catholic
- 273, Cayuga_CC
- 274, Cazenovia
- 275, CC_Allegheny-A
- 276, CC_Allegheny-B
- 277, CC_Beaver_Co
- 278, CC_of_RI
- 279, CCBC_Catonsville
- 280, CCBC-Dundalk
- 281, Cecil_Col
- 282, Cedar_Valley
- 283, Cedarville
- 284, Cent_Arkansas
- 285, Cent_Carolina_CC
- 286, Cent_CC-Columbus
- 287, Cent_Georgia_Tech
- 288, Cent_Methodist
- 289, Cent_Wyoming
- 290, Centenary
- 291, Centenary_NJ
- 292, Centennial_Col
- 293, Central_Bap
- 294, Central_Chr
- 295, Central_Conn
- 296, Central_IA
- 297, Central_Lakes
- 298, Central_Penn
- 299, Central_St_OH
- 300, Centralia_Col
- 301, Centre
- 302, Cerritos_Col
- 303, Chabot
- 304, Chadron_St
- 305, Chaffey
- 306, Chaminade
- 307, Champion_Bap
- 308, Chand-Gilbert
- 309, Chapman
- 310, Charleston_So
- 311, Charleston_WV
- 312, Charlotte
- 313, Chatham
- 314, Chatt_St_Tech
- 315, Chattahoochee_Tech
- 316, Chattahoochee_Val
- 317, Chattanooga
- 318, Chemekata_CC
- 319, Chesapeake
- 320, Chestnut_Hill
- 321, Cheyney_St
- 322, Chicago
- 323, Chicago_St
- 324, Chipola
- 325, Chowan
- 326, Chr_Brothers
- 327, Chris_Newport
- 328, Christendom
- 329, Cin_Clermont
- 330, Cincinnati
- 331, Cincinnati_Chr
- 332, Cincinnati_St_Tech
- 333, Citadel
- 334, Citrus_Col
- 335, City_Col_NY
- 336, City_Col_San_Fran
- 337, Clackamas_CC
- 338, Claflin
- 339, Claremont_M.S.
- 340, Clarendon
- 341, Clarion
- 342, Clark_Atlanta
- 343, Clark_CC
- 344, Clark_MA
- 345, Clark_St
- 346, Clarke
- 347, Clarkson
- 348, Clayton_St
- 349, Clemson
- 350, Cleveland_St
- 351, Cleveland_St_CC
- 352, Clinton_CC_(NY)
- 353, Clinton_JC
- 354, Cloud_Co
- 355, Co_Col_Morris
- 356, Coahoma_CC
- 357, Coast_Guard
- 358, Coastal_Bend_College
- 359, Coastal_Car
- 360, Coastal_GA
- 361, Cochise
- 362, Coe
- 363, Coffeyville_CC
- 364, Coker
- 365, Col_Cent_Florida
- 366, Col_Charleston
- 367, Col_Marin
- 368, Col_of_Dupage
- 369, Col_of_Idaho
- 370, Col_of_the_Canyons
- 371, Col_of_the_Desert
- 372, Col_of_the_Redwoods
- 373, Col_of_the_Sequoias
- 374, Col_Ozarks
- 375, Col_Springs
- 376, Colby
- 377, Colby_CC
- 378, Colby-Sawyer
- 379, Colgate
- 380, College_of_NJ
- 381, Collin_Co
- 382, Colorado
- 383, Colorado_Chr
- 384, Colorado_Col
- 385, Colorado_Mines
- 386, Colorado_NW
- 387, Colorado_St
- 388, Columbia
- 389, Columbia_Basin
- 390, Columbia_Bib
- 391, Columbia_CC
- 392, Columbia_Greene
- 393, Columbia_Intl
- 394, Columbia_MO
- 395, Columbia_St
- 396, Columbus_St
- 397, Columbus_St_CC
- 398, Concord
- 399, Concordia_AB
- 400, Concordia_AL
- 401, Concordia_CA
- 402, Concordia_IL
- 403, Concordia_Mhd
- 404, Concordia_MI
- 405, Concordia_MO
- 406, Concordia_NE
- 407, Concordia_NY
- 408, Concordia_OR
- 409, Concordia_QC
- 410, Concordia_SP
- 411, Concordia_TX
- 412, Concordia_WI
- 413, Connecticut
- 414, Connors_St
- 415, Contra_Costa
- 416, Copiah-Lincoln
- 417, Coppin_St
- 418, Corban
- 419, Cornell
- 420, Cornell_IA
- 421, Cornerstone
- 422, Corning_CC
- 423, Cortland_St
- 424, Cosumnes_River
- 425, Covenant
- 426, Cowley_Co
- 427, Crandall
- 428, Creighton
- 429, Crossroads
- 430, Crowley's_Ridge
- 431, Crown_MN
- 432, Crown_TN
- 433, CS_Bakersfield
- 434, CS_Chico
- 435, CS_Dom._Hills
- 436, CS_Fullerton
- 437, CS_Monterey_Bay
- 438, CS_Northridge
- 439, CS_Poly_Pomona
- 440, CS_Sacramento
- 441, CS_San_Bern.
- 442, CS_San_Marcos
- 443, CS_Stanislaus
- 444, CSU_East_Bay
- 445, CSU-Pueblo
- 446, CT_College
- 447, Cuesta
- 448, Culinary_Inst
- 449, Culver-Stockton
- 450, Cumberland_Co
- 451, Cumberland_TN
- 452, Cumberlands_KY
- 453, Curry
- 454, Cuyahoga_CC
- 455, Cuyamaca
- 456, CW_Post
- 457, Cypress
- 458, D'Youville
- 459, Daemen
- 460, Dakota_Co_Tech
- 461, Dakota_St
- 462, Dakota_Wesleyan
- 463, Dakota-Bottineau
- 464, Daley
- 465, Dalhousie
- 466, Dalhousie_Ag
- 467, Dallas_Bap
- 468, Dallas_Chr
- 469, Dallas_Univ
- 470, Dalton_St
- 471, Daniel_Webster
- 472, Danville_CC
- 473, Dartmouth
- 474, Davenport
- 475, Davidson
- 476, Davidson_Co_CC
- 477, Davis
- 478, Davis_&_Elkins
- 479, Dawson
- 480, Dawson_CC
- 481, Dayton
- 482, Daytona_St
- 483, De_Anza_Col
- 484, DE_Tech_CC
- 485, Dean
- 486, Defiance
- 487, Delaware
- 488, Delaware_Co_CC
- 489, Delaware_St
- 490, Delaware_Val
- 491, Delgado_CC
- 492, Delta_Col
- 493, Delta_St
- 494, Denison
- 495, Denmark_Tech
- 496, Denver
- 497, DePaul
- 498, DePauw
- 499, Des_Moines_CC
- 500, DeSales
- 501, Detroit
- 502, Diablo_Val
- 503, Dickinson
- 504, Dickinson_St_ND
- 505, Dillard
- 506, Dist_Columbia
- 507, Dixie_St
- 508, Doane
- 509, Dodge_City_CC
- 510, Dominican_CA
- 511, Dominican_IL
- 512, Dominican_NY
- 513, Dordt
- 514, Douglas
- 515, Dowling
- 516, Drake
- 517, Drew
- 518, Drexel
- 519, Drury
- 520, Dubuque
- 521, Duke
- 522, Duquesne
- 523, Durham
- 524, Dutchess_CC
- 525, Dyersburg_St
- 526, E_Connecticut
- 527, E_Florida_St
- 528, E_Illinois
- 529, E_Kentucky
- 530, E_Mennonite
- 531, E_Michigan
- 532, E_Mississippi_CC
- 533, E_Nazarene
- 534, E_New_Mexico
- 535, E_Stroudsburg
- 536, E_Texas_Bap
- 537, E_Washington
- 538, Earlham
- 539, East_Carolina
- 540, East_Central_CC
- 541, East_Central_OK
- 542, East_Georgia_Col
- 543, East_LA_Col
- 544, Eastern_Arizona
- 545, Eastern_OK_St
- 546, Eastern_Oregon
- 547, Eastern_Univ
- 548, Eastern_Utah
- 549, Eastern_Wyoming
- 550, Eastfield_Col
- 551, Ecclesia
- 552, Eckerd
- 553, Ed_Montpetit
- 554, Edgewood
- 555, Edinboro
- 556, Edison_CC
- 557, Edmonds_CC
- 558, Edward_Waters
- 559, Edwardsville
- 560, El_Camino_Col
- 561, El_Camino-Compton
- 562, Elgin_CC
- 563, Eliz._City_St
- 564, Elizabethtown
- 565, Ellsworth_CC
- 566, Elmhurst
- 567, Elmira
- 568, Elms
- 569, Elon
- 570, Embry-Riddle_AZ
- 571, Embry-Riddle_FL
- 572, Emerson
- 573, Emmanuel_GA
- 574, Emmanuel_MA
- 575, Emmaus_Bib
- 576, Emory
- 577, Emory_&_Henry
- 578, Emporia_St
- 579, Endicott
- 580, Enterprise_St
- 581, Erie_CC
- 582, Erskine
- 583, Essex_CC
- 584, ETSU
- 585, Eureka
- 586, Evangel
- 587, Evansville
- 588, Everett_CC
- 589, Evergreen_St
- 590, F_Dickinson
- 591, Fairfield
- 592, Fairmont_St
- 593, Faith_Bap
- 594, Fanshawe
- 595, Farmingdale
- 596, Faulkner
- 597, Faulkner_St
- 598, Fayetteville_St
- 599, FDU_Madison
- 600, Feather_River
- 601, Felician
- 602, Ferris_St
- 603, Ferrum
- 604, Findlay
- 605, Finger_Lakes_CC
- 606, Finlandia
- 607, Fisher
- 608, Fisk
- 609, Fitchburg_St
- 610, FL_Atlantic
- 611, FL_Gulf_Coast
- 612, FL_Memorial
- 613, FL_Southern
- 614, Flagler
- 615, Fleming
- 616, Florida
- 617, Florida_A&M
- 618, Florida_Col
- 619, Florida_Intl
- 620, Florida_National
- 621, Florida_St
- 622, Florida_St-Jax
- 623, Florida_Tech
- 624, Fond_du_Lac_T&CC
- 625, Fontbonne
- 626, Foothill_Col
- 627, Fordham
- 628, Fort_Hays_St
- 629, Fort_Scott_CC
- 630, Fort_Valley_St
- 631, Framingham_St
- 632, Francis_Marion
- 633, Franciscan_OH
- 634, Frank_&_Marsh
- 635, Frank_Phillips
- 636, Franklin_IN
- 637, Franklin_Pierce
- 638, Fraser_Val
- 639, Frederick_CC
- 640, Freed-Hardeman
- 641, Fresno_City_Col
- 642, Fresno_Pacific
- 643, Fresno_St
- 644, Friends
- 645, Frostburg_St
- 646, Ft_Lewis
- 647, Fullerton_Col
- 648, Fulton-Mont
- 649, Furman
- 650, G_Washington
- 651, Ga_Southern
- 652, Gadsden_St_CC
- 653, Gallaudet
- 654, Gannon
- 655, Garden_City_CC
- 656, Gardner_Webb
- 657, Garrett
- 658, Gateway_CC
- 659, Gavilan
- 660, Genesee_CC
- 661, Geneseo_St
- 662, Geneva
- 663, George_Brown
- 664, George_Fox
- 665, George_Mason
- 666, Georgetown
- 667, Georgetown_KY
- 668, Georgia
- 669, Georgia_C&S
- 670, Georgia_Highlands
- 671, Georgia_NW_Tech
- 672, Georgia_St
- 673, Georgia_SW
- 674, Georgia_Tech
- 675, Georgian
- 676, Georgian_Court
- 677, Gettysburg
- 678, Gillette
- 679, Glen_Oaks_CC
- 680, Glendale_AZ
- 681, Glendale_CA
- 682, Glenville_St
- 683, Globe_Tech
- 684, Gloucester_Co
- 685, Gogebic_CC
- 686, Goldey_Beacom
- 687, Gonzaga
- 688, Gordon
- 689, Gordon_GA
- 690, Goshen
- 691, Goucher
- 692, Governors_St
- 693, Grace_Bib
- 694, Grace_IN
- 695, Grace_NE
- 696, Graceland
- 697, Grambling
- 698, Grand_Canyon
- 699, Grand_Rapids_CC
- 700, Grand_Valley_St
- 701, Grande_Prairie
- 702, Grandview
- 703, Grant_MacEwan
- 704, Grays_Harbor
- 705, Great_Bay_CC
- 706, Great_Lakes_Chr
- 707, Green_Mtn
- 708, Green_River_CC
- 709, Greensboro
- 710, Greenville
- 711, Grinnell
- 712, Grossmont
- 713, Grove_City
- 714, Guelph
- 715, Guilford
- 716, Guilford_Tech_CC
- 717, Gulf_Coast_CC
- 718, Gust_Adolphus
- 719, Gwynedd-Mercy
- 720, Hagerstown_CC
- 721, Hamilton
- 722, Hamline
- 723, Hampden-Sydney
- 724, Hampshire
- 725, Hampton
- 726, Hannibal-Lagr
- 727, Hanover
- 728, Harcum_Col
- 729, Hardin-Simmons
- 730, Harding
- 731, Harford_CC
- 732, Harper
- 733, Harris-Stowe
- 734, Harrisburg_Area_CC
- 735, Hartford
- 736, Hartnell
- 737, Hartwick
- 738, Harvard
- 739, Haskell
- 740, Hastings
- 741, Haverford
- 742, Hawaii
- 743, Hawaii_Hilo
- 744, Hawaii_Pacific
- 745, Heidelberg
- 746, Henderson_St
- 747, Hendrix
- 748, Henry_Ford_CC
- 749, Herkimer_Co
- 750, Hesston
- 751, Hibbing_CC
- 752, High_Point
- 753, Highland_CC_IL
- 754, Highland_CC_KS
- 755, Highline_CC
- 756, Hilbert
- 757, Hill_Col
- 758, Hillsborough_CC
- 759, Hillsdale
- 760, Hillsdale_Bap
- 761, Hinds_CC
- 762, Hiram
- 763, Hiwassee
- 764, Hobart-Smith
- 765, Hofstra
- 766, Holland
- 767, Holmes_CC
- 768, Holy_Cross
- 769, Holy_Cross_IN
- 770, Holy_Family
- 771, Holy_Names
- 772, Holyoke_CC
- 773, Hood
- 774, Hope
- 775, Hope_Intl
- 776, Hostos_CC
- 777, Houghton
- 778, Houston
- 779, Houston_Bap
- 780, Howard
- 781, Howard_CC_MD
- 782, Howard_Col
- 783, Howard_Payne
- 784, Hudson_Val
- 785, Humber
- 786, Humboldt_St
- 787, Hunter
- 788, Huntingdon
- 789, Huntington
- 790, Husson
- 791, Huston-Tillot
- 792, Hutchinson_CC
- 793, Idaho
- 794, Idaho_St
- 795, IL_Central
- 796, IL_Chicago
- 797, IL_Springfield
- 798, IL_Tech
- 799, IL_Wesleyan
- 800, Illinois
- 801, Illinois_Col
- 802, Illinois_St
- 803, Illinois_Val
- 804, Immaculata
- 805, Imperial_Val
- 806, IN_S_Bend
- 807, IN_Southeast
- 808, IN_Wesleyan
- 809, Incarnate_Word
- 810, Independence_CC
- 811, Indian_Hills_CC
- 812, Indian_River
- 813, Indiana
- 814, Indiana_NW
- 815, Indiana_PA
- 816, Indiana_St
- 817, Indiana_Tech
- 818, Indiana-East
- 819, Indianapolis
- 820, Iona
- 821, Iowa
- 822, Iowa_Cent
- 823, Iowa_Lakes_CC
- 824, Iowa_St
- 825, Iowa_Wesleyan
- 826, Iowa_Western_CC
- 827, IPFW
- 828, Irvine_Valley
- 829, Itasca_CC
- 830, Itawamba_CC
- 831, Ithaca
- 832, IU_Kokomo
- 833, IUPUI
- 834, J&W_CO
- 835, J&W_FL
- 836, J&W_NC
- 837, J&W_RI
- 838, Jackson_CC
- 839, Jackson_St
- 840, Jackson_St_CC
- 841, Jacksonville
- 842, Jacksonville_Col
- 843, Jacksonville_St
- 844, James_Madison
- 845, Jamestown
- 846, Jamestown_CC
- 847, Jamestown-Cat
- 848, Jarvis_Chr
- 849, JC_Smith
- 850, Jefferson_CC
- 851, Jefferson_Davis
- 852, John_Abbott
- 853, John_Brown
- 854, John_Carroll
- 855, John_Jay
- 856, John_Logan
- 857, John_Wood_CC
- 858, Johns_Hopkins
- 859, Johnson_CC
- 860, Johnson_Co
- 861, Johnson_FL
- 862, Johnson_St
- 863, Johnson_TN
- 864, Joliet_JC
- 865, Jones_Co_CC
- 866, Judson_IL
- 867, Juniata
- 868, Kalamazoo
- 869, Kalamazoo_Val
- 870, Kankakee_CC
- 871, Kansas
- 872, Kansas_City_KS
- 873, Kansas_St
- 874, Kaskaskia
- 875, Kean
- 876, Keene_St
- 877, Keiser
- 878, Kellogg_CC
- 879, Kennedy-King
- 880, Kennesaw
- 881, Kent
- 882, Kentucky
- 883, Kentucky_Chr
- 884, Kentucky_St
- 885, Kenyon
- 886, Keuka
- 887, Keyano
- 888, Keystone
- 889, Kilgore
- 890, King_TN
- 891, King's_AB
- 892, King's_NS
- 893, King's_NY
- 894, King's_PA
- 895, Kingsborough
- 896, Kirkwood_CC
- 897, Kishwaukee_CC
- 898, Knox
- 899, KS_Wesleyan
- 900, Kutztown
- 901, Kwantlen
- 902, KY_Wesleyan
- 903, La_Cite
- 904, LA_Harbor
- 905, LA_Pierce
- 906, La_Roche
- 907, La_Salle
- 908, La_Sierra
- 909, LA_Southwest
- 910, LA_Trade-Tech
- 911, LA_Valley_Col
- 912, La_Verne
- 913, Labette_CC
- 914, Lackawanna
- 915, Lafayette
- 916, LaGrange
- 917, LaGuardia_CC
- 918, Lake_Co
- 919, Lake_Erie
- 920, Lake_Forest
- 921, Lake_Land_IL
- 922, Lake_Michigan
- 923, Lake_Region
- 924, Lake_Superior
- 925, Lakehead
- 926, Lakeland
- 927, Lakeland_AB
- 928, Lakeland_CC
- 929, Lamar
- 930, Lamar_CC
- 931, Lamar_St
- 932, Lambton
- 933, Lancaster_Bib
- 934, Lander
- 935, Lane
- 936, Lane_CC
- 937, Langara
- 938, Langston
- 939, Lansing_CC
- 940, Laramie_Co
- 941, Las_Positas
- 942, Lasell
- 943, Lassen
- 944, Laurentian
- 945, Laurier
- 946, Laval
- 947, Lawrence
- 948, Lawrence_Tech
- 949, Lawson_St
- 950, Le_Moyne
- 951, Le_Tourneau
- 952, Lebanon_Val
- 953, Lee_TN
- 954, Lee_TX
- 955, Lees-McRae
- 956, Lehigh
- 957, Lehigh_Carbon
- 958, Lehman
- 959, LeMoyne-Owen
- 960, Lenoir_CC
- 961, Lenoir_Rhyne
- 962, Lesley
- 963, Lethbridge_Col
- 964, Lewis
- 965, Lewis_&_Clark
- 966, Lewis_&_Clark_CC
- 967, Lewis-Clark_ID
- 968, Liberty
- 969, Life
- 970, Life_Pacific
- 971, Limestone
- 972, Lincoln_Chr
- 973, Lincoln_Col
- 974, Lincoln_Land
- 975, Lincoln_Mem
- 976, Lincoln_MO
- 977, Lincoln_PA
- 978, Lincoln_Trail
- 979, Lindenwood
- 980, Lindenwood-Belleville
- 981, Lindsey_Wilson
- 982, Linfield
- 983, Linn-Benton_CC
- 984, Lipscomb
- 985, Little_Big_Horn
- 986, Little_Priest
- 987, Livingstone
- 988, Lock_Haven
- 989, Long_Beach_City_Col
- 990, Long_Beach_St
- 991, Long_Island
- 992, Longwood
- 993, Lorain_Co_CC
- 994, Loras
- 995, Los_Medanos
- 996, Louisburg
- 997, Louisiana_Col
- 998, Louisiana_Tech
- 999, Louisville
-1000, Lourdes
-1001, Lower_Columbia
-1002, Loy_Marymount
-1003, Loyalist
-1004, Loyola_MD
-1005, Loyola_NO
-1006, Loyola-Chicago
-1007, LSU
-1008, LSU_Shreveport
-1009, LSU-Alexandria
-1010, Lubbock_Chr
-1011, Lurleen_Wallace
-1012, Luther_IA
-1013, Luther_MN
-1014, Luzerne_Co_CC
-1015, Lycoming
-1016, Lynchburg
-1017, Lyndon_St
-1018, Lynn
-1019, Lyon
-1020, M_Hardin-Baylor
-1021, MA_Boston
-1022, MA_Dartmouth
-1023, MA_Liberal_Arts
-1024, MA_Lowell
-1025, Macalester
-1026, MacMurray
-1027, Macomb_CC
-1028, Madison_Col
-1029, Madonna
-1030, Maine
-1031, Malcolm_X
-1032, Malone
-1033, Manchester
-1034, Manhattan
-1035, Manhattan_Chr
-1036, Manhattanville
-1037, Manitoba
-1038, Manor
-1039, Mansfield
-1040, Maranatha_Bap
-1041, Marian_IN
-1042, Marian_WI
-1043, Marietta
-1044, Marion_Mil
-1045, Marist
-1046, Marquette
-1047, Mars_Hill
-1048, Marshall
-1049, Marshalltown_CC
-1050, Martin_Meth
-1051, Mary_ND
-1052, Mary_Washington
-1053, Marygrove
-1054, Maryland
-1055, Marymount_VA
-1056, Maryville_MO
-1057, Maryville_TN
-1058, Marywood
-1059, Mass_Bay_CC
-1060, Massachusetts
-1061, Massasoit_CC
-1062, Mayville_St
-1063, McCook_CC
-1064, McDaniel_Col
-1065, McGill
-1066, McHenry_Co
-1067, McKendree
-1068, McLennan_CC
-1069, McMaster
-1070, McMurry
-1071, McNeese_St
-1072, McPherson
-1073, MD_Bible
-1074, MD_E_Shore
-1075, ME_Augusta
-1076, ME_Farmington
-1077, ME_Ft_Kent
-1078, ME_Machias
-1079, ME_Maritime
-1080, ME_Presque_Isle
-1081, Medaille
-1082, Medgar_Evers
-1083, Medicine_Hat
-1084, Memorial
-1085, Memphis
-1086, Mendocino
-1087, Menlo
-1088, Merced_Col
-1089, Mercer
-1090, Mercer_Co
-1091, Merchant_Marine
-1092, Mercy
-1093, Mercyhurst
-1094, Mercyhurst_NE
-1095, Meridian_CC
-1096, Merrimack
-1097, Merritt
-1098, Mesa_CC
-1099, Mesa_St
-1100, Mesabi_Range
-1101, Messiah
-1102, Methodist
-1103, Metro_St
-1104, MI_Dearborn
-1105, Mia-Middletown
-1106, Miami_FL
-1107, Miami_OH
-1108, Miami-Dade
-1109, Miami-Hamilton
-1110, Michigan
-1111, Michigan_St
-1112, Michigan_Tech
-1113, Mid_Am_Nazarene
-1114, Mid_Georgia
-1115, Mid-Am_Chr
-1116, Mid-Atlantic_Chr
-1117, Mid-Michigan_CC
-1118, Mid-South_CC
-1119, Middlebury
-1120, Middlesex_Co
-1121, Midland_NE
-1122, Midland_TX
-1123, Midwest_TX_St
-1124, Miles
-1125, Miles_CC
-1126, Millersville
-1127, Milligan
-1128, Millikin
-1129, Millsaps
-1130, Milwaukee_Eng
-1131, Milwaukee_Tech
-1132, Mineral_Area
-1133, Minnesota
-1134, Minot_St
-1135, MiraCosta
-1136, Miramar
-1137, Misericordia
-1138, Mississippi
-1139, Mississippi_Col
-1140, Mississippi_St
-1141, Missouri
-1142, Missouri_KC
-1143, Missouri_S&T
-1144, Missouri_St
-1145, Missouri_Val
-1146, MIT
-1147, Mitchell
-1148, MN_Crookston
-1149, MN_Duluth
-1150, MN_Mankato
-1151, MN_Morris
-1152, MN_St_CTC
-1153, MN_West_C&T
-1154, MO_Baptist
-1155, MO_Southern
-1156, MO_St_Louis
-1157, MO_Western
-1158, Moberly_Area
-1159, Mobile
-1160, Modesto_JC
-1161, Mohawk
-1162, Mohawk_Val
-1163, Molloy
-1164, Monmouth_IL
-1165, Monmouth_NJ
-1166, Monroe
-1167, Monroe_CC
-1168, Montana
-1169, Montana_St
-1170, Montclair_St
-1171, Monterey_Peninsula
-1172, Montevallo
-1173, Montgomery_Co_CC
-1174, Montgomery-R
-1175, Montmorency
-1176, Montreat_And
-1177, Moody_Bib
-1178, Moorhead_St
-1179, Moorpark
-1180, Moraine_Val
-1181, Moravian
-1182, Morehead_St
-1183, Morehouse
-1184, Morgan_St
-1185, Morningside
-1186, Morris_SC
-1187, Morrisville_St
-1188, Morthland
-1189, Morton
-1190, Motlow_St
-1191, Mott_CC
-1192, MS_Delta
-1193, MS_Gulf_Coast
-1194, MS_Valley_St
-1195, MS_Vincent_NS
-1196, Mt_Allison
-1197, Mt_Aloysius
-1198, Mt_Hood_CC
-1199, Mt_Ida
-1200, Mt_Marty
-1201, Mt_Mercy
-1202, Mt_Olive
-1203, Mt_Royal
-1204, Mt_San_Antonio
-1205, Mt_San_Jacinto
-1206, Mt_St_Joseph
-1207, Mt_St_Mary_NY
-1208, Mt_St_Mary's
-1209, MT_St_Northern
-1210, Mt_St_Vincent
-1211, MT_St-Billings
-1212, MT_Tech
-1213, Mt_Union
-1214, Mt_Vernon_Naz
-1215, MT_Western
-1216, MT-Great_Falls
-1217, Mtn_View
-1218, MTSU
-1219, Muhlenberg
-1220, Multnomah_Bib
-1221, Murray_St
-1222, Murray_St_CC
-1223, Muskegon_CC
-1224, Muskingum
-1225, N_Alberta_Tech
-1226, N_Arkansas
-1227, N_Central_IL
-1228, N_Central_MN
-1229, N_Central_MO
-1230, N_Colorado
-1231, N_Country_CC
-1232, N_Dakota_St
-1233, N_England_Col
-1234, N_Essex_CC
-1235, N_Illinois
-1236, N_Iowa_CC
-1237, N_Kentucky
-1238, N_Michigan
-1239, N_New_Mexico
-1240, N_OK-Enid
-1241, N_OK-Tonkawa
-1242, Napa_Valley_CC
-1243, Nassau_CC
-1244, Navarro
-1245, Navy
-1246, Nazareth
-1247, NB-St_John
-1248, NC_A&T
-1249, NC_Central
-1250, NC_Pembroke
-1251, NC_State
-1252, NC_Wesleyan
-1253, ND_St_Science
-1254, NE_Kearney
-1255, NE_MS_CC
-1256, NE_OK_A&M
-1257, NE_Oklahoma
-1258, NE_Omaha
-1259, NE_Wesleyan
-1260, Nebraska
-1261, Neosho_Co
-1262, Neumann
-1263, Nevada
-1264, New_Brunswick
-1265, New_Hampshire
-1266, New_Haven
-1267, New_Hope_Chr
-1268, New_Mexico
-1269, New_Mexico_JC
-1270, New_Mexico_St
-1271, New_Orleans
-1272, Newberry
-1273, Newbury
-1274, Newman
-1275, NH_Tech
-1276, Niagara
-1277, Niagara_Co
-1278, Niagara_ON
-1279, Nicholls_St
-1280, Nichols
-1281, Nipissing
-1282, NJ_City
-1283, NJIT
-1284, NM_Highlands
-1285, NM_Military
-1286, Norfolk_St
-1287, North_Alabama
-1288, North_Carolina
-1289, North_Dakota
-1290, North_Florida
-1291, North_Georgia
-1292, North_Greenville
-1293, North_Idaho
-1294, North_Lake
-1295, North_Park
-1296, North_Platte_CC
-1297, North_Texas
-1298, Northampton_CC
-1299, Northeast_CC
-1300, Northeastern
-1301, Northeastern_JC
-1302, Northern_Arizona
-1303, Northern_BC
-1304, Northern_Iowa
-1305, Northern_St_SD
-1306, Northern_Virginia_CC
-1307, Northland
-1308, Northland_CTC
-1309, Northwest_Chr
-1310, Northwest_Indian
-1311, Northwest_KS_Tech
-1312, Northwest_WA
-1313, Northwest_WY
-1314, Northwestern
-1315, Northwestern_IA
-1316, Northwestern_LA
-1317, Northwestern_MN
-1318, Northwestern_OH
-1319, Northwood_MI
-1320, Norwich
-1321, Notre_Dame
-1322, Notre_Dame_CA
-1323, Notre_Dame_OH
-1324, Nova_SE
-1325, NW_Florida_St
-1326, NW_Mississippi
-1327, NW_Missouri
-1328, NW_Nazarene
-1329, NW_Oklahoma_St
-1330, NY_Maritime
-1331, Nyack
-1332, NYIT
-1333, NYU
-1334, Oak_Hills_Chr
-1335, Oakland
-1336, Oakland_CC
-1337, Oakland_City
-1338, Oakton_CC
-1339, Oakwood
-1340, Oberlin
-1341, Occidental
-1342, Ocean_Co
-1343, Odessa
-1344, Oglala-Lakota
-1345, Oglethorpe
-1346, OH_Chillicothe
-1347, OH_Dominican
-1348, OH_Lancaster
-1349, OH_St-Lima
-1350, OH_St-Mansfield
-1351, OH_Zanesville
-1352, Ohio
-1353, Ohio_Chr
-1354, Ohio_Eastern
-1355, Ohio_Mid-Western
-1356, Ohio_Northern
-1357, Ohio_St
-1358, Ohio_Valley
-1359, Ohio_Wesleyan
-1360, Ohlone
-1361, OK_Baptist
-1362, OK_City
-1363, OK_Wesleyan
-1364, Okanagan
-1365, Oklahoma
-1366, Oklahoma_Chr
-1367, Oklahoma_S&A
-1368, Oklahoma_St
-1369, Old_Dominion
-1370, Old_Westbury
-1371, Olds
-1372, Olive-Harvey
-1373, Olivet_MI
-1374, Olivet_Naz
-1375, Olney
-1376, Olympic
-1377, Onondaga_CC
-1378, Oral_Roberts
-1379, Orange_Co
-1380, Orange_Coast
-1381, Oregon
-1382, Oregon_St
-1383, Oregon_Tech
-1384, Oswego_St
-1385, Otero_JC
-1386, Ottawa_KS
-1387, Ottawa_ON
-1388, Otterbein
-1389, Ouachita
-1390, Our_Lady_Lake
-1391, Owens_CC
-1392, Oxford_of_Emory
-1393, Oxnard
-1394, Ozark_Chr
-1395, PA_Highlands_CC
-1396, Pac_Lutheran
-1397, Pace
-1398, Pacific
-1399, Pacific_OR
-1400, Pacific_Union
-1401, Paine
-1402, Palm_Beach_Atl
-1403, Palm_Beach_St
-1404, Palomar_Col
-1405, Panhandle_St
-1406, Panola
-1407, Paris_JC
-1408, Park
-1409, Parkland
-1410, Pasadena_City_Col
-1411, Pasco-Hernando
-1412, Passaic_Co
-1413, Patrick_Henry_CC
-1414, Paul_Quinn
-1415, Peace
-1416, Pearl_River_CC
-1417, Peninsula
-1418, Penn
-1419, Penn_St
-1420, Penn_Tech
-1421, Penn_Valley_CC
-1422, Pensacola_Chr
-1423, Pensacola_St
-1424, Pepperdine
-1425, Permian_Basin
-1426, Peru_St
-1427, Pfeiffer
-1428, Philadelphia
-1429, Philadelphia_CC
-1430, Philander_Smith
-1431, Phoenix_Col
-1432, Piedmont
-1433, Piedmont_Bap
-1434, Pierce_CC
-1435, Pikeville
-1436, Pima_CC
-1437, Pine_Manor
-1438, Pitt_CC
-1439, Pitt-Bradford
-1440, Pitt-Greensburg
-1441, Pitt-Johnstown
-1442, Pittsburg_St
-1443, Pittsburgh
-1444, Plattsburgh_St
-1445, Plymouth_St
-1446, Point
-1447, Point_Loma
-1448, Point_Park
-1449, Polk_CC
-1450, Pomona_Pitzer
-1451, Porterville
-1452, Portland
-1453, Portland_Bible
-1454, Portland_CC
-1455, Portland_St
-1456, Post
-1457, Potomac_St-WVU
-1458, PR_Bayamon
-1459, PR_Mayaguez
-1460, PR_Rio_Piedras
-1461, Prairie_St
-1462, Prairie_View
-1463, Pratt_CC
-1464, Pratt_Inst
-1465, Presbyterian
-1466, Presentation
-1467, Prince_George's
-1468, Princeton
-1469, Principia
-1470, Providence
-1471, Providence_MB
-1472, PSU_Mont_Alto
-1473, PSU_Wilkes-Barre
-1474, PSU_Worth_Scranton
-1475, PSU_York
-1476, PSU-Abington
-1477, PSU-Altoona
-1478, PSU-Beaver
-1479, PSU-Behrend
-1480, PSU-Berks
-1481, PSU-Brandywine
-1482, PSU-DuBois
-1483, PSU-Fayette
-1484, PSU-Gtr_Allegheny
-1485, PSU-Harrisburg
-1486, PSU-Hazleton
-1487, PSU-Lehigh_Val
-1488, PSU-New_Kens
-1489, PSU-Schuylkill
-1490, Puget_Sound
-1491, Purchase
-1492, Purdue
-1493, Purdue_Calumet
-1494, Purdue-N_Cent
-1495, Queen's_ON
-1496, Queens_NC
-1497, Queens_NY
-1498, Queensborough
-1499, Quest
-1500, Quincy
-1501, Quinnipiac
-1502, Quinsigamond
-1503, R_Morris_Chi
-1504, R_Morris_Spfd
-1505, R_Morris-Peoria
-1506, R_Stockton
-1507, Radford
-1508, Rainy_River_CC
-1509, Ramapo
-1510, Randolph_Col
-1511, Randolph_Macon
-1512, Ranger
-1513, Raritan_Val
-1514, Red_Deer
-1515, Red_River_Col
-1516, Redeemer
-1517, Redlands
-1518, Redlands_CC
-1519, Reedley
-1520, Regina
-1521, Regis_CO
-1522, Regis_MA
-1523, Reinhardt
-1524, Rend_Lake
-1525, Rensselaer
-1526, Rhema_Bib
-1527, Rhode_Island
-1528, Rhodes
-1529, RI_College
-1530, Rice
-1531, Richard_Bland
-1532, Richland
-1533, Richmond
-1534, Rider
-1535, Ridgewater
-1536, Rio_Grande
-1537, Rio_Hondo
-1538, Ripon
-1539, Riverland_CC
-1540, Riverside_CC
-1541, Rivier
-1542, Roane_St
-1543, Roanoke
-1544, Robert_Morris
-1545, Roberts_Wslyn
-1546, Rochester_C&T
-1547, Rochester_MI
-1548, Rochester_NY
-1549, Rochester_Tech
-1550, Rock_Valley
-1551, Rockford
-1552, Rockhurst
-1553, Rockland_CC
-1554, Rocky_Mtn
-1555, Roger_Williams
-1556, Rogers_St
-1557, Rollins
-1558, Roosevelt
-1559, Rose-Hulman
-1560, Rosemont
-1561, Rowan
-1562, Roxbury_CC
-1563, Russell_Sage
-1564, Rust
-1565, Rutgers
-1566, Rutgers-Camden
-1567, Rutgers-Newark
-1568, Ryerson
-1569, S_Alberta_Tech
-1570, S_Arkansas
-1571, S_Carolina_St
-1572, S_Connecticut
-1573, S_Dakota_St
-1574, S_Dakota_Tech
-1575, S_Francisco_St
-1576, S_Georgia_St
-1577, S_Georgia_Tech
-1578, S_Illinois
-1579, S_Indiana
-1580, S_Maine
-1581, S_Maine_Tech
-1582, S_New_Hampshire
-1583, S_Puget_Sound_CC
-1584, S_Suburban
-1585, S_Union_St
-1586, S_Vermont
-1587, S_Virginia
-1588, S_Wesleyan
-1589, Sacramento_City
-1590, Sacred_Heart
-1591, Saddleback
-1592, Saginaw_Val
-1593, Sainte-Foy
-1594, Salem_MA
-1595, Salem_WV
-1596, Salisbury_St
-1597, Salt_Lake_CC
-1598, Salve_Regina
-1599, Sam_Houston_St
-1600, Samford
-1601, San_Bernardino_Val
-1602, San_Diego
-1603, San_Diego_Chr
-1604, San_Diego_Mesa
-1605, San_Diego_St
-1606, San_Francisco
-1607, San_Jacinto-C
-1608, San_Joaquin_Delta
-1609, San_Jose_City_Col
-1610, San_Jose_St
-1611, Sandhills_CC
-1612, Santa_Ana_Col
-1613, Santa_Barbara
-1614, Santa_Barbara_City
-1615, Santa_Clara
-1616, Santa_Fe_CC
-1617, Santa_Monica_Col
-1618, Santa_Rosa_JC
-1619, Sarah_Lawrence
-1620, Saskatchewan
-1621, Sauk_Valley_CC
-1622, Sault
-1623, Savannah_St
-1624, SC_Aiken
-1625, SC_Upstate
-1626, Schenectady_Co
-1627, Schoolcraft
-1628, Schreiner
-1629, Scottsdale_CC
-1630, Scranton
-1631, SD_City_Col
-1632, SE_Illinois
-1633, SE_Louisiana
-1634, SE_Missouri_St
-1635, SE_Oklahoma
-1636, Seattle
-1637, Seattle_Pacific
-1638, Selma_AL
-1639, Seminole_St
-1640, Seneca
-1641, Seton_Hall
-1642, Seton_Hill
-1643, Sewanee
-1644, Seward_Co
-1645, SF_Austin
-1646, Shasta_Col
-1647, Shaw_NC
-1648, Shawnee_CC
-1649, Shawnee_St
-1650, Shelton_St
-1651, Shenandoah
-1652, Shepherd
-1653, Sheridan_Col
-1654, Sheridan_ON
-1655, Shippensburg
-1656, Shoreline_CC
-1657, Shorter
-1658, Siena
-1659, Siena_Hts
-1660, Sierra_Col
-1661, Silver_Lake
-1662, Simmons_KY
-1663, Simon_Fraser
-1664, Simpson_CA
-1665, Simpson_IA
-1666, Sinclair_CC
-1667, Sioux_Falls
-1668, Siskiyous
-1669, Skagit_Val_CC
-1670, Skidmore
-1671, Skyline
-1672, Slippery_Rock
-1673, SMU
-1674, Snead_St
-1675, Snow_Col
-1676, So_Crescent_Tech
-1677, Solano_CC
-1678, Sonoma_St
-1679, South_Alabama
-1680, South_Carolina
-1681, South_Dakota
-1682, South_Florida
-1683, South_Mtn
-1684, South_Plains
-1685, Southeast_CC
-1686, Southeastern_CC
-1687, Southeastern_FL
-1688, Southern_Idaho
-1689, Southern_MD
-1690, Southern_Miss
-1691, Southern_N.O.
-1692, Southern_Nazarene
-1693, Southern_Oregon
-1694, Southern_St_CC
-1695, Southern_Univ
-1696, Southern_Utah
-1697, Southern-Shreve
-1698, Southwestern_CA
-1699, Southwestern_CC
-1700, Southwestern_KS
-1701, Spalding
-1702, Spartanburg_Meth
-1703, Spokane_CC
-1704, Sprfld_Tech_CC
-1705, Spring_Arbor
-1706, Spring_Hill
-1707, Springfield
-1708, St_Ambrose
-1709, St_Andrew's
-1710, St_Anselm
-1711, St_Augustine's
-1712, St_Bonaventure
-1713, St_Catharine
-1714, St_Clair
-1715, St_Clair_Co
-1716, St_Cloud
-1717, St_Cloud_Tech
-1718, St_Edward's
-1719, St_Fran_Xavier
-1720, St_Francis_IL
-1721, St_Francis_IN
-1722, St_Francis_NY
-1723, St_Francis_PA
-1724, St_Gregory's
-1725, St_John_Fisher
-1726, St_John's
-1727, St_John's_MN
-1728, St_Joseph_VT
-1729, St_Joseph's_IN
-1730, St_Joseph's_LI
-1731, St_Joseph's_ME
-1732, St_Joseph's_NY
-1733, St_Joseph's_PA
-1734, St_Lambert
-1735, St_Lawrence
-1736, St_Lawrence_ON
-1737, St_Leo
-1738, St_Louis
-1739, St_Louis_Chr
-1740, St_Louis_Pharm
-1741, St_Martin's
-1742, St_Mary_KS
-1743, St_Mary's_AB
-1744, St_Mary's_CA
-1745, St_Mary's_MD
-1746, St_Mary's_MN
-1747, St_Mary's_NS
-1748, St_Mary's_TX
-1749, St_Michael's
-1750, St_Norbert
-1751, St_Olaf
-1752, St_Peter's
-1753, St_Petersburg
-1754, St_Rose
-1755, St_Scholastica
-1756, St_Thomas_FL
-1757, St_Thomas_MN
-1758, St_Thomas_NB
-1759, St_Thomas_TX
-1760, St_Vincent
-1761, St_Xavier_IL
-1762, Stanford
-1763, State_Col_Fla
-1764, State_Fair_CC
-1765, Staten_Island
-1766, Sterling
-1767, Stetson
-1768, Stevens_Tech
-1769, Stevens_Tech_PA
-1770, Stevenson
-1771, Stillman
-1772, StL_CC-Meramec
-1773, Stonehill
-1774, Stony_Brook
-1775, Suffolk
-1776, Suffolk_Co-Selden
-1777, Sul_Ross
-1778, Sullivan_Co
-1779, Summit
-1780, SUNY_Canton
-1781, SUNY_Fredonia
-1782, SUNY_New_Paltz
-1783, SUNY_Oneonta
-1784, SUNY_Potsdam
-1785, SUNY-Cobleskill
-1786, SUNY-Delhi
-1787, SUNY-ESF
-1788, SUNYIT
-1789, Susquehanna
-1790, Sussex_Co_CC
-1791, SW_Adventist
-1792, SW_Assemb_God
-1793, SW_Baptist
-1794, SW_Chr_TX
-1795, SW_Christian
-1796, SW_Illinois
-1797, SW_Minnesota
-1798, SW_Mississippi
-1799, SW_MO_St-WP
-1800, SW_Oklahoma
-1801, SW_Oregon_CC
-1802, SW_Tennessee
-1803, SW_Univ_TX
-1804, Swarthmore
-1805, Syracuse
-1806, Tabor
-1807, Tacoma_CC
-1808, Talladega
-1809, Tallahassee_CC
-1810, TAM_C._Christi
-1811, Tampa
-1812, Tarleton_St
-1813, Taylor_IN
-1814, TCU
-1815, Temple
-1816, Temple_Col
-1817, Tennessee
-1818, Tennessee_St
-1819, Tennessee_Tech
-1820, Texas
-1821, Texas_A&M
-1822, Texas_A&M_Intl
-1823, Texas_Col
-1824, Texas_St
-1825, Texas_Tech
-1826, The_Master's
-1827, Thiel
-1828, Thomas_Aquinas
-1829, Thomas_GA
-1830, Thomas_ME
-1831, Thomas_More
-1832, Thompson_Riv
-1833, Three_Rivers
-1834, Tiffin
-1835, TN_Martin
-1836, TN_Wesleyan
-1837, Toccoa_Falls
-1838, Tohono_O'odham
-1839, Toledo
-1840, Tompkins_Cortland
-1841, Toronto
-1842, Tougaloo
-1843, Towson
-1844, Transylvania
-1845, Treasure_Val_CC
-1846, Trevecca_Naz
-1847, Trine
-1848, Trinidad_St_JC
-1849, Trinity_Bap
-1850, Trinity_Bib
-1851, Trinity_Chr
-1852, Trinity_CT
-1853, Trinity_FL
-1854, Trinity_IL
-1855, Trinity_TX
-1856, Trinity_Valley_CC
-1857, Trinity_Western
-1858, Triton_Col
-1859, Troy
-1860, Truett-McConnell
-1861, Truman_Col
-1862, Truman_St
-1863, Tufts
-1864, Tulane
-1865, Tulsa
-1866, Tusculum
-1867, Tuskegee
-1868, TX_A&M_Commerce
-1869, TX_A&M_K'ville
-1870, TX_Lutheran
-1871, TX_Southern
-1872, TX_Wesleyan
-1873, Tyler_JC
-1874, U_New_England
-1875, UAB
-1876, UC_Davis
-1877, UC_Irvine
-1878, UC_Merced
-1879, UC_Riverside
-1880, UC_San_Diego
-1881, UC_Santa_Cruz
-1882, UCF
-1883, UCLA
-1884, UConn-AP
-1885, ULL
-1886, ULM
-1887, Ulster_Co
-1888, UMBC
-1889, Umpqua_CC
-1890, UNC_Asheville
-1891, UNC_Greensboro
-1892, UNC_Wilmington
-1893, Union_Co
-1894, Union_KY
-1895, Union_NE
-1896, Union_NY
-1897, Union_TN
-1898, United_Tribes
-1899, Unity
-1900, Univ_Lethbridge
-1901, Univ_of_Southwest
-1902, Univ_Ozarks
-1903, Univ_Sciences
-1904, UNLV
-1905, UPEI
-1906, Upper_Iowa
-1907, UQAM
-1908, Urbana
-1909, Ursinus
-1910, USC
-1911, USC_Salkehatchie
-1912, UT_Arlington
-1913, UT_Dallas
-1914, UT_San_Antonio
-1915, UT_Tyler
-1916, Utah
-1917, Utah_St
-1918, Utah_Valley
-1919, UTEP
-1920, Utica
-1921, UTRGV
-1922, UVA-Wise
-1923, VA_Commonwealth
-1924, VA_Wesleyan
-1925, VA-Lynchburg
-1926, Val_Forge_Mil
-1927, Valdosta_St
-1928, Valley_City_St
-1929, Valley_Forge
-1930, Valparaiso
-1931, Vance-Granville
-1932, Vancouver_Island
-1933, Vanderbilt
-1934, Vanguard
-1935, Vanier
-1936, Vassar
-1937, Vaughn
-1938, Ventura_Col
-1939, Vermilion_CC
-1940, Vermont
-1941, Vermont_Tech
-1942, Victor_Valley
-1943, Victoria
-1944, Villa_Maria
-1945, Villanova
-1946, Vincennes
-1947, Virginia
-1948, Virginia_St
-1949, Virginia_Tech
-1950, Virginia_Union
-1951, Viterbo
-1952, VMI
-1953, Volunteer_St
-1954, Voorhees
-1955, W_Carolina
-1956, W_Coast_Bap
-1957, W_Connecticut
-1958, W_Georgia_Tech
-1959, W_Illinois
-1960, W_Michigan
-1961, W_Nebraska_CC
-1962, W_New_England
-1963, W_New_Mexico
-1964, W_Oklahoma_St
-1965, W_Oregon
-1966, W_Salem_St
-1967, W_Texas_A&M
-1968, W_Washington
-1969, W_Wyoming_CC
-1970, Wabash
-1971, Wabash_Val
-1972, Wagner
-1973, Wake_Forest
-1974, Wake_Tech
-1975, Waldorf
-1976, Walla_Walla
-1977, Walla_Walla_CC
-1978, Wallace_CC-Selma
-1979, Wallace_St
-1980, Walsh
-1981, Walters_St
-1982, Warner
-1983, Warner_Pacific
-1984, Warren_Wilson
-1985, Wartburg
-1986, Wash_&_Jeff
-1987, Wash_&_Lee
-1988, Washburn
-1989, Washington
-1990, Washington_Advt
-1991, Washington_MD
-1992, Washington_MO
-1993, Washington_St
-1994, Waterloo
-1995, Waubonsee_CC
-1996, Wayland
-1997, Wayne_Co
-1998, Wayne_St_MI
-1999, Wayne_St_NE
-2000, Waynesburg
-2001, Weatherford
-2002, Webber
-2003, Weber_St
-2004, Webster_Univ
-2005, Welch
-2006, Wells
-2007, Wenatchee_Val_CC
-2008, Wentworth_Mil
-2009, Wentworth_Tech
-2010, Wesley_DE
-2011, Wesleyan_CT
-2012, West_Alabama
-2013, West_Chester
-2014, West_Florida
-2015, West_Georgia
-2016, West_Hills
-2017, West_LA_Col
-2018, West_Liberty
-2019, West_Valley_Col
-2020, West_Virginia
-2021, Western_ON
-2022, Western_St_CO
-2023, Western_Tech
-2024, Western_Texas
-2025, Westfield_St
-2026, Westminster_MO
-2027, Westminster_PA
-2028, Westminster_UT
-2029, Westmont
-2030, Westmoreland_Co
-2031, Whatcom_CC
-2032, Wheaton_IL
-2033, Wheaton_MA
-2034, Wheeling_Jesuit
-2035, Wheelock
-2036, Whitman
-2037, Whittier
-2038, Whitworth
-2039, WI_Eau_Claire
-2040, WI_Green_Bay
-2041, WI_LaCrosse
-2042, WI_Lutheran
-2043, WI_Milwaukee
-2044, WI_Oshkosh
-2045, WI_Parkside
-2046, WI_Platteville
-2047, WI_River_Falls
-2048, WI_Stevens_Pt
-2049, WI_Stout
-2050, WI_Superior
-2051, WI_Whitewater
-2052, Wichita_St
-2053, Widener
-2054, Wilberforce
-2055, Wilbur_Wright
-2056, Wiley
-2057, Wilkes
-2058, Willamette
-2059, William_&_Mary
-2060, William_Penn
-2061, Williams
-2062, Williams_Bap
-2063, Williamson_Tr
-2064, Williston_St
-2065, Wilmington_DE
-2066, Wilmington_OH
-2067, Wilson
-2068, Windsor
-2069, Wingate
-2070, Winnipeg
-2071, Winnipeg_Col
-2072, Winona_St
-2073, Winthrop
-2074, Wisconsin
-2075, Wittenberg
-2076, WKU
-2077, Wm_Carey
-2078, Wm_Jessup
-2079, Wm_Jewell
-2080, Wm_Paterson
-2081, Wm_Woods
-2082, Wofford
-2083, Wooster
-2084, Worcester_St
-2085, Worcester_Tech
-2086, Wright_St
-2087, Wright_St-Lake
-2088, WV_State
-2089, WV_Tech
-2090, WV_Wesleyan
-2091, Wyoming
-2092, Xavier
-2093, Xavier_LA
-2094, Yakima_Val_CC
-2095, Yale
-2096, Yellowstone_Chr
-2097, Yeshiva
-2098, York_NE
-2099, York_NY
-2100, York_ON
-2101, York_PA
-2102, Young_Harris
-2103, Youngstown_St
-2104, Yuba
+   2, Air_Force
+   3, Akron
+   4, Alabama
+   5, Alabama_A&M
+   6, Alabama_St
+   7, Albany_NY
+   8, Alcorn_St
+   9, American_Univ
+  10, Appalachian_St
+  11, Arizona
+  12, Arizona_St
+  13, Ark_Little_Rock
+  14, Ark_Pine_Bluff
+  15, Arkansas
+  16, Arkansas_St
+  17, Army
+  18, Auburn
+  19, Austin_Peay
+  20, Ball_St
+  21, Baylor
+  22, Belmont
+  23, Bethune-Cookman
+  24, Binghamton
+  25, Boise_St
+  26, Boston_College
+  27, Boston_Univ
+  28, Bowling_Green
+  29, Bradley
+  30, Brown
+  31, Bryant
+  32, Bucknell
+  33, Buffalo
+  34, Butler
+  35, BYU
+  36, C_Michigan
+  37, Cal_Poly_SLO
+  38, California
+  39, Campbell
+  40, Canisius
+  41, Cent_Arkansas
+  42, Central_Conn
+  43, Charleston_So
+  44, Charlotte
+  45, Chattanooga
+  46, Chicago_St
+  47, Cincinnati
+  48, Citadel
+  49, Clemson
+  50, Cleveland_St
+  51, Coastal_Car
+  52, Col_Charleston
+  53, Colgate
+  54, Colorado
+  55, Colorado_St
+  56, Columbia
+  57, Connecticut
+  58, Coppin_St
+  59, Cornell
+  60, Creighton
+  61, CS_Bakersfield
+  62, CS_Fullerton
+  63, CS_Northridge
+  64, CS_Sacramento
+  65, Dartmouth
+  66, Davidson
+  67, Dayton
+  68, Delaware
+  69, Delaware_St
+  70, Denver
+  71, DePaul
+  72, Detroit
+  73, Drake
+  74, Drexel
+  75, Duke
+  76, Duquesne
+  77, E_Illinois
+  78, E_Kentucky
+  79, E_Michigan
+  80, E_Washington
+  81, East_Carolina
+  82, Edwardsville
+  83, Elon
+  84, ETSU
+  85, Evansville
+  86, F_Dickinson
+  87, Fairfield
+  88, FL_Atlantic
+  89, FL_Gulf_Coast
+  90, Florida
+  91, Florida_A&M
+  92, Florida_Intl
+  93, Florida_St
+  94, Fordham
+  95, Fresno_St
+  96, Furman
+  97, G_Washington
+  98, Ga_Southern
+  99, Gardner_Webb
+ 100, George_Mason
+ 101, Georgetown
+ 102, Georgia
+ 103, Georgia_St
+ 104, Georgia_Tech
+ 105, Gonzaga
+ 106, Grambling
+ 107, Grand_Canyon
+ 108, Hampton
+ 109, Hartford
+ 110, Harvard
+ 111, Hawaii
+ 112, High_Point
+ 113, Hofstra
+ 114, Holy_Cross
+ 115, Houston
+ 116, Houston_Bap
+ 117, Howard
+ 118, Idaho
+ 119, Idaho_St
+ 120, IL_Chicago
+ 121, Illinois
+ 122, Illinois_St
+ 123, Incarnate_Word
+ 124, Indiana
+ 125, Indiana_St
+ 126, Iona
+ 127, Iowa
+ 128, Iowa_St
+ 129, IPFW
+ 130, IUPUI
+ 131, Jackson_St
+ 132, Jacksonville
+ 133, Jacksonville_St
+ 134, James_Madison
+ 135, Kansas
+ 136, Kansas_St
+ 137, Kennesaw
+ 138, Kent
+ 139, Kentucky
+ 140, La_Salle
+ 141, Lafayette
+ 142, Lamar
+ 143, Lehigh
+ 144, Liberty
+ 145, Lipscomb
+ 146, Long_Beach_St
+ 147, Long_Island
+ 148, Longwood
+ 149, Louisiana_Tech
+ 150, Louisville
+ 151, Loy_Marymount
+ 152, Loyola_MD
+ 153, Loyola-Chicago
+ 154, LSU
+ 155, MA_Lowell
+ 156, Maine
+ 157, Manhattan
+ 158, Marist
+ 159, Marquette
+ 160, Marshall
+ 161, Maryland
+ 162, Massachusetts
+ 163, McNeese_St
+ 164, MD_E_Shore
+ 165, Memphis
+ 166, Mercer
+ 167, Miami_FL
+ 168, Miami_OH
+ 169, Michigan
+ 170, Michigan_St
+ 171, Minnesota
+ 172, Mississippi
+ 173, Mississippi_St
+ 174, Missouri
+ 175, Missouri_KC
+ 176, Missouri_St
+ 177, Monmouth_NJ
+ 178, Montana
+ 179, Montana_St
+ 180, Morehead_St
+ 181, Morgan_St
+ 182, MS_Valley_St
+ 183, Mt_St_Mary's
+ 184, MTSU
+ 185, Murray_St
+ 186, N_Colorado
+ 187, N_Dakota_St
+ 188, N_Illinois
+ 189, N_Kentucky
+ 190, Navy
+ 191, NC_A&T
+ 192, NC_Central
+ 193, NC_State
+ 194, NE_Omaha
+ 195, Nebraska
+ 196, Nevada
+ 197, New_Hampshire
+ 198, New_Mexico
+ 199, New_Mexico_St
+ 200, New_Orleans
+ 201, Niagara
+ 202, Nicholls_St
+ 203, NJIT
+ 204, Norfolk_St
+ 205, North_Carolina
+ 206, North_Dakota
+ 207, North_Florida
+ 208, North_Texas
+ 209, Northeastern
+ 210, Northern_Arizona
+ 211, Northern_Iowa
+ 212, Northwestern
+ 213, Northwestern_LA
+ 214, Notre_Dame
+ 215, Oakland
+ 216, Ohio
+ 217, Ohio_St
+ 218, Oklahoma
+ 219, Oklahoma_St
+ 220, Old_Dominion
+ 221, Oral_Roberts
+ 222, Oregon
+ 223, Oregon_St
+ 224, Pacific
+ 225, Penn
+ 226, Penn_St
+ 227, Pepperdine
+ 228, Pittsburgh
+ 229, Portland
+ 230, Portland_St
+ 231, Prairie_View
+ 232, Presbyterian
+ 233, Princeton
+ 234, Providence
+ 235, Purdue
+ 236, Quinnipiac
+ 237, Radford
+ 238, Rhode_Island
+ 239, Rice
+ 240, Richmond
+ 241, Rider
+ 242, Robert_Morris
+ 243, Rutgers
+ 244, S_Carolina_St
+ 245, S_Dakota_St
+ 246, S_Illinois
+ 247, Sacred_Heart
+ 248, Sam_Houston_St
+ 249, Samford
+ 250, San_Diego
+ 251, San_Diego_St
+ 252, San_Francisco
+ 253, San_Jose_St
+ 254, Santa_Barbara
+ 255, Santa_Clara
+ 256, Savannah_St
+ 257, SC_Upstate
+ 258, SE_Louisiana
+ 259, SE_Missouri_St
+ 260, Seattle
+ 261, Seton_Hall
+ 262, SF_Austin
+ 263, Siena
+ 264, SMU
+ 265, South_Alabama
+ 266, South_Carolina
+ 267, South_Dakota
+ 268, South_Florida
+ 269, Southern_Miss
+ 270, Southern_Univ
+ 271, Southern_Utah
+ 272, St_Bonaventure
+ 273, St_Francis_NY
+ 274, St_Francis_PA
+ 275, St_John's
+ 276, St_Joseph's_PA
+ 277, St_Louis
+ 278, St_Mary's_CA
+ 279, St_Peter's
+ 280, Stanford
+ 281, Stetson
+ 282, Stony_Brook
+ 283, Syracuse
+ 284, TAM_C._Christi
+ 285, TCU
+ 286, Temple
+ 287, Tennessee
+ 288, Tennessee_St
+ 289, Tennessee_Tech
+ 290, Texas
+ 291, Texas_A&M
+ 292, Texas_St
+ 293, Texas_Tech
+ 294, TN_Martin
+ 295, Toledo
+ 296, Towson
+ 297, Troy
+ 298, Tulane
+ 299, Tulsa
+ 300, TX_Southern
+ 301, UAB
+ 302, UC_Davis
+ 303, UC_Irvine
+ 304, UC_Riverside
+ 305, UCF
+ 306, UCLA
+ 307, ULL
+ 308, ULM
+ 309, UMBC
+ 310, UNC_Asheville
+ 311, UNC_Greensboro
+ 312, UNC_Wilmington
+ 313, UNLV
+ 314, USC
+ 315, UT_Arlington
+ 316, UT_San_Antonio
+ 317, Utah
+ 318, Utah_St
+ 319, Utah_Valley
+ 320, UTEP
+ 321, UTRGV
+ 322, VA_Commonwealth
+ 323, Valparaiso
+ 324, Vanderbilt
+ 325, Vermont
+ 326, Villanova
+ 327, Virginia
+ 328, Virginia_Tech
+ 329, VMI
+ 330, W_Carolina
+ 331, W_Illinois
+ 332, W_Michigan
+ 333, Wagner
+ 334, Wake_Forest
+ 335, Washington
+ 336, Washington_St
+ 337, Weber_St
+ 338, West_Virginia
+ 339, WI_Green_Bay
+ 340, WI_Milwaukee
+ 341, Wichita_St
+ 342, William_&_Mary
+ 343, Winthrop
+ 344, Wisconsin
+ 345, WKU
+ 346, Wofford
+ 347, Wright_St
+ 348, Wyoming
+ 349, Xavier
+ 350, Yale
+ 351, Youngstown_St
