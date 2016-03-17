@@ -193,7 +193,7 @@ class EloRater(object):
         print '({5}) {0} vs ({6}) {1}: {2:.2f} {3:.2f}, {4}'.format(matchup['team1'], matchup['team2'], team1_win_probability, winner_selection, winner_name, team1_seed, team2_seed)
 
     def generate_bracket_picks(self):
-        random.seed(0)
+        random.seed(2016)
 
         for round_number in xrange(1,5):
             print '=== Round {} ==='.format(round_number)
