@@ -29,11 +29,15 @@ class EloRater(object):
             for row in csvreader:
                 team_id = int(row[0])
                 team_name = row[1]
+                participating = team_name in self.tournament_teams
                 self.teams[team_id] = {
                     'name': team_name,
                     'rating': self.initial_rating,
                     'opponents': [],
-                    'participating': team_name in self.tournament_teams}
+                    'participating': participating}
+                if participating:
+                    self.teams[team_id]['seed'] = self.tournament_teams[team_name]['seed']
+                    self.teams[team_id]['region'] = self.tournament_teams[team_name]['region']
                 self.team_name_to_id[team_name] = team_id
 
     def read_games(self, games_filename):
@@ -74,7 +78,7 @@ class EloRater(object):
         bonus = 1.0*abs(score1 - score2)/(score1 + score2)
         print bonus
 
-        change = self.K * (1 + bonus) * expected_win_prob_team1
+        change = self.K * (1.0 + bonus) * expected_win_prob_team1
         return change
     
     def compute_ratings(self):
@@ -127,10 +131,11 @@ class EloRater(object):
         print 'Rank\tRating\tTeam'
         for n,team in enumerate(sorted_ratings):
             if team[1]['participating']:
-                print '{}\t{}\t{}'.format(
+                print '{}\t{}\t({}) {}'.format(
                     n+1,
                     #len(sorted_ratings)-n,
                     int(team[1]['rating']),
+                    team[1]['seed'],
                     team[1]['name'].replace('_', ' '),)
 
     def generate_bracket_picks(self):
