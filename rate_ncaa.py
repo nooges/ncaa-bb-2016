@@ -69,16 +69,20 @@ class EloRater(object):
                 self.tournament_teams[team_name] = team
 
         pprint(self.tournament_teams)
+    def expected_win_probability(self, rating1, rating2):
+        return 1.0/(1 + 10**((rating2 - rating1)/400))
 
     def rating_change(self, rating1, rating2, score1, score2):
         """Returns rating change for team 1"""
-        expected_win_prob_team1 = 1.0/(1 + 10**((rating2 - rating1)/400))
+        expected_win_prob_team1 = self.expected_win_probability(rating1, rating2)
 
         # Compute bonus based on score differential
         bonus = 1.0*abs(score1 - score2)/(score1 + score2)
-        print bonus
+        bonus = bonus**0.5
+        self.max_bonus = max(self.max_bonus, bonus)
+        #print self.max_bonus,bonus
 
-        change = self.K * (1.0 + bonus) * expected_win_prob_team1
+        change = self.K * (0.4 + bonus) * expected_win_prob_team1
         return change
     
     def compute_ratings(self):
